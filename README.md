@@ -2,7 +2,6 @@
 
 A modern and interactive **Tic Tac Toe** game built with **React.js** and **Vite**. Enjoy a smooth gameplay experience with clean UI, fast rendering, and zero reloads.
 
-> 🚀 **Live Demo**: [Click to Play](https://amarsin22.github.io/Tic-Tac-Toe1/)
 
 ---
 
